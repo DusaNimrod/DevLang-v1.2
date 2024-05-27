@@ -3,6 +3,7 @@ from tkinter import ttk, scrolledtext, filedialog, messagebox
 import re
 import subprocess
 
+# I hope yall like it :p
 
 class SimpleEditor(tk.Tk):
     def __init__(self):
